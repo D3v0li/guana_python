@@ -16,8 +16,5 @@ elif media >= 5 and frequencia >= 75:
 else:
     print(f"{nome} Aluno reprovado estude mais um pouco!!!")
     
-    
-    print(f"media: {media:.2f}")
-    print(f"frequencia: {frequencia:.2f}%")
-    
+
     
